@@ -4,8 +4,8 @@ This recipe makes a 2 LB loaf of whole wheat bread.
 
 ### Ingredients
 
-| | |
-- | -
+| Quantity | Ingredient |
+| -------- | ---------- |
 | 480g | water |
 | 292g | flour |
 | 292g | wheat flour |
