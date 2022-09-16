@@ -4,7 +4,10 @@ This recipe makes a 2 LB loaf of whole wheat bread.
 
 ### Bakeware
 
-9in x 5in (23㎝ x 13㎝) loaf pan
+* 9in x 5in (23㎝ x 13㎝) loaf pan
+* Large mixing bowl
+* Small mixing bowl
+* Whisk
 
 ### Baking
 
