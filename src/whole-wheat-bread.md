@@ -13,7 +13,7 @@ This recipe makes a 2 LB loaf of whole wheat bread.
 | 13g | salt |
 | 16g | sugar |
 | 37g | butter, soft |
-| 4g | yeast |
+| 6g | yeast |
 
 ### Instructions
 
