@@ -21,5 +21,5 @@ This recipe makes a 2 LB loaf of whole wheat bread.
   * Set the bread maker to whole wheat dough
 * 10 minutes before the bread maker is done set the oven to 350F
 * Plop the bread dough in a bread pan
-* Bake at 375F for 35 minutes
+* Bake at 375F for 45 minutes
 * Let rest out of pan
