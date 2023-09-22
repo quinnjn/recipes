@@ -27,9 +27,9 @@ Measure out dry ingredients for batching a bunch of loafs at once.
 * Put yeast into bread maker top
 * Measure and put all ingredients in a bread maker
   * Set the bread maker to whole wheat dough
-* The bread maker will process the dough for 70-100 minutes:
-  * Rest for 55-75 minutes
-  * Knead for 15-25 minutes
+* The bread maker will process the dough for 2:15 hours
+* The final hour for the bread machine is for rising, which we will do in the oven
+* Turn the oven to rapid proof / warm for 30 minutes
 * Remove the dough from the bread machine before rising
 * Butter pan, especially the lid
 * Put dough in pan and in the oven on bread rise for 100-120 minutes
