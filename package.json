@@ -3,5 +3,8 @@
   "author": "quinnjn",
   "dependencies": {
     "@vivliostyle/cli": "^8.6.0"
+  },
+  "scripts": {
+    "build": "vivliostyle build"
   }
 }
