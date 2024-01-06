@@ -4,11 +4,11 @@
 
 | Quantity | Ingredient |
 | -------- | ---------- |
-| 320g     | warm water 110°F |
-| 4g       | sugar or honey |
+| 300g     | warm water 110°F |
+| 8g       | sugar or honey |
 | 7g       | package active-dry yeast |
-| 500g     | all purpose flour |
-| 53g      | extra virgin olive oil |
+| 483g     | all purpose flour |
+| 50g      | extra virgin olive oil |
 | 2 tsp    | flaky sea salt |
 | 2 sprigs | fresh rosemary |
 
