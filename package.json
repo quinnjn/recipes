@@ -1,0 +1,7 @@
+{
+  "name": "recipes",
+  "author": "quinnjn",
+  "dependencies": {
+    "@vivliostyle/cli": "^8.6.0"
+  }
+}
