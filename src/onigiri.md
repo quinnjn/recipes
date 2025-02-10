@@ -10,17 +10,12 @@ This recipe makes a 8 good sized onigiri.
 * strainer
 * heavy bottom pot
 
-### Baking
-
-350ºF / 176ºC for 40-45 minutes
-Cool for 10 minutes afterwards
-
 ### Ingredients
 
 | Quantity | Ingredient |
 | -------- | ---------- |
 | 310g | short-grain rice (e.g. arborio) |
-| 360g | water |
+| 350g | water |
 | 4 tablespoon | rice vinegar |
 | 3 tablespoon | sugar |
 | 1 teaspoon | salt |
