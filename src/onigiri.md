@@ -16,9 +16,9 @@ This recipe makes a 8 good sized onigiri.
 | -------- | ---------- |
 | 310g | short-grain rice (e.g. arborio) |
 | 350g | water |
-| 4 tablespoon | rice vinegar |
-| 3 tablespoon | sugar |
-| 1 teaspoon | salt |
+| 72g or 4 tablespoon | rice vinegar |
+| 45g or 3 tablespoon | sugar |
+| 4g or 1 teaspoon | salt |
 | 1 can | tuna
 | 3 tablespoons | japanese mayo |
 | 1 teaspoon | soy sauce |
